@@ -1,0 +1,6 @@
+
+path: yolo # dataset root directory
+train: images/train # training images (relative to 'path')
+val: images/val # validation images (relative to 'path')
+names:
+    0: probe
